@@ -8,6 +8,6 @@ This services provides the following actions:
   1. The contribution is divided across the different plans by the contribution instructions that are set. (see account-instructions-service)
 4. View the current balance of the account.
 
-#Entity model
+## Entity model
 ![ER Diagram](account-er-model.png)
 
