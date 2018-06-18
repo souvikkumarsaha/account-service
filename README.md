@@ -9,5 +9,6 @@ This services provides the following actions:
 4. View the current balance of the account.
 
 ## Entity model
+
 ![ER Diagram](account-er-model.png)
 
